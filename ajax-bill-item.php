@@ -1,4 +1,4 @@
-<?php ss
+<?php
 session_start();
 require_once('../connection/dbcon.php');
 if($_GET['type']=='add')
