@@ -1,5 +1,5 @@
-<?php
-session_start();
+<?php 
+session_start();vb
 require_once('../connection/dbcon.php');
 if($_GET['type']=='add')
 {
